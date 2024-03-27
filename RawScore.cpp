@@ -27,6 +27,7 @@ void performCPUBenchmark() {
     std::cout << "Primes found: " << primes << std::endl;
 }
 
+
 int main() {
     // Get CPU information
     std::cout << "CPU Information:" << std::endl;
