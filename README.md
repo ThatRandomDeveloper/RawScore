@@ -5,6 +5,6 @@ While efforts have been made to ensure reliability, it is important to acknowled
 
 Ownership Rights:
 
-Please be aware that "RawScore" is a product of my own code, and I retain all rights to this code.
+Please be aware that "RawScore" is a product of my own code, and I retain all rights to this code and "RawScore".
 Redistribution or any form of distribution of software utilizing "RawScore" requires explicit permission. 
 To obtain such permission, please contact me via email at thatrandomdeveloper@outlook.com.
